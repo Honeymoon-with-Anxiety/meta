@@ -1,0 +1,5 @@
+pro výpočet otáčení čtverce aby se vešel do původního čtverce vzorec
+
+2 × sq{2 × (a^2)} × k_p
+
+kde `k_p` se rovná `0.7071758344`

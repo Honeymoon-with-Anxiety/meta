@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="honeymoon.svg"
+   inkscape:export-filename="honeymoon.png"
+   inkscape:export-xdpi="119.9"
+   inkscape:export-ydpi="119.9"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-77.5"
+     inkscape:cy="408"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5200" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5582">
+      <stop
+         style="stop-color:#faba14;stop-opacity:1;"
+         offset="0"
+         id="stop5602" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop5604" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5582-1">
+      <stop
+         style="stop-color:#faba14;stop-opacity:1;"
+         offset="0.23863636"
+         id="stop5578" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop5580" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5582"
+       id="linearGradient5584"
+       x1="-550.48999"
+       y1="35.261688"
+       x2="735.16205"
+       y2="1244.8862"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5204"
+       inkscape:label="frame"
+       sodipodi:insensitive="true">
+      <rect
+         style="fill:#faba15;fill-opacity:1"
+         id="rect1088"
+         width="512"
+         height="512"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#49271a;fill-opacity:1;stroke-width:1.4646"
+         id="rect1246"
+         width="460.79999"
+         height="460.79999"
+         x="25.600006"
+         y="25.600006" />
+    </g>
+    <g
+       id="g5200"
+       inkscape:label="honeymoon">
+      <circle
+         style="fill:#faba15;fill-opacity:1;stroke-width:2.66495"
+         id="path1407"
+         cx="256"
+         cy="256"
+         r="192" />
+      <path
+         sodipodi:type="star"
+         style="fill:url(#linearGradient5584);fill-opacity:1;stroke:#49271a;stroke-width:66.66661387;stroke-dasharray:none;stroke-opacity:1;fill-rule:nonzero;opacity:1"
+         id="path4896"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="0"
+         sodipodi:cy="512"
+         sodipodi:r1="512"
+         sodipodi:r2="443.405"
+         sodipodi:arg1="0"
+         sodipodi:arg2="0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 512,512 -256,443.40501 -512,0 L -512,512 -256,68.594993 l 512,0 z"
+         transform="matrix(0.34832883,0,0,0.34932243,255.92187,77.133338)" />
+    </g>
+  </g>
+</svg>
